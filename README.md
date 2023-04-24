@@ -1,4 +1,4 @@
-OOAD Project
+OOADJ Project
 
 Quiz Management System
 
